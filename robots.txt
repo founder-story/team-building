@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://founder-story.github.io/team-building/sitemap.xml
